@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @PraveenRana75
+- 👋 Hi, I’m Praveen
 - 👀 I’m interested in Data Science & Web Devlopment
-- 🌱 I’m currently learning Data Science &machine learning
+- 🌱 I’m currently learning Data Science & machine learning
 - 💞️ I’m Fresher Student
 - 📫 Contect me -- praveensingh276323@gmail.com
 - ⚡ Fun fact: ...
