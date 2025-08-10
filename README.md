@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Praveen<br>Fullstack software developer &Data Science Fresher <br>To help by Making new software 
+I am Praveen<br>Java Fullstack software developer & Data Science Fresher <br>To help by Making new software 
 
 
 ## 🌐 Socials:
